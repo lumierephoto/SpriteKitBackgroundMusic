@@ -9,7 +9,10 @@
 #import "PSViewController.h"
 #import "PSMyScene.h"
 
+
+
 @implementation PSViewController
+
 
 - (void)viewDidLoad
 {
@@ -47,5 +50,6 @@
     [super didReceiveMemoryWarning];
     // Release any cached data, images, etc that aren't in use.
 }
+
 
 @end
